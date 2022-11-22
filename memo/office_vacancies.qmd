@@ -1,9 +1,13 @@
-# Office vacancies
+# Office vacancies and property tax revenue loss
 
 Commercial office buildings account for about 18% of the San Francisco property tax. Furthermore, they drive a lot of additional economic activity that also generates tax revenue. Egan estimates that they generate about 72% of the city's gross domestic product.
 
-Graph below shows office vacancy projections by real estate adviser JLL under 4 scenarios (optimistic, base, conservative, pessimistic). These JLL scenarios underpin the Controller's modelling of risks to the San Francisco property tax.
+Graph below shows office vacancy projections by real estate adviser JLL under 4 scenarios (optimistic, base, conservative, pessimistic), from Chief Economist Ted Egan's presentation. These JLL scenarios underpin the Controller's modelling of risks to the San Francisco property tax.
 
-Under the best case scenario (dashed black line), vacancies
+Under the best case scenario (dashed black line), vacancies would fall to their worst level of the dot-com bust by end of 2026. Under pessimistic scenario they would remain above 25%.
 
-![](images/image-230161451.png)
+![](images/image-482270939.png)
+
+Here are the Comptroller's revenue loss projections under three of the JLL scenarios.
+
+![](images/image-1712166967.png)

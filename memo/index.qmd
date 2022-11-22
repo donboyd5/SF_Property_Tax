@@ -6,12 +6,10 @@ Per your note:
 
 > Do you think you could fit in maybe 4-8 hours of research this week and make a list of the key factual points you think should be included in the article? This would be prioritized over the housing project because it's time-sensitive. We would want to know basic things for a writer to pick up and then turn into an article
 
--   I begin with general [observations](observations.qmd).
+-   The [highlights page](highlights.qmd) provides key issues and facts.
 
--   The [highlights page](highlights.qmd) gives facts supporting key points.
+-   Subsequent pages provide more details on selected items.
 
--   Subsequent pages provide more details.
-
--   The Board of Supervisors Budget and Finance Committee held a relevant [hearing](budget_finance_hearing.qmd).
+-   The Board of Supervisors Budget and Finance Committee held a relevant [hearing](budget_finance_hearing.qmd), with considerable useful information.
 
 -   A [bibliography](bibliography.qmd) at the end gives reference information for selected documents.

@@ -1,0 +1,47 @@
+# Selected notes on the economy
+
+## Economy
+
+### [Controller](https://sfcontroller.org/sites/default/files/Documents/Economic%20Analysis/October%20Re-Opening%20Report_final.pdf) Status of the Re-Opening of the San Francisco Economy: October 2022
+
+Also see https://sfcontroller.org/sites/default/files/Documents/Economic%20Analysis/Controller%20final%20reponse%20to%20Letter%20of%20Inquiry.pdf
+
+The San Francisco MD lost 3,900 jobs in September, the first such loss based on the revised August and preliminary September data. The City's jobless rate was unchanged at 2.1% on a seasonally-adjusted basis.
+
+-   In a reversal of pandemic-era trends, most of the job losses were concentrated in the tech-heavy Information and Professional and Business Services sectors.
+
+-   While office attendance continues its slow recovery, at about 40% of pre-pandemic levels, San Francisco continues to lag most other metro areas. The city's office vacancy rate rose to 24% in the third quarter of 2022.
+
+-   The city's housing market weakness continued through September. Since May, single-family home prices in the city have fallen by 6.2%. Across the state, housing prices have dropped by 2.5% from their peak in June.
+
+[Bank of the West](https://www.bankofthewest.com/Wealth-Management/insights/articles/economic-report/california-economic-outlook-report-sept-2022)
+
+**Bay Area Losing Younger Residents**\
+The pandemic and ensuing recession stripped San Francisco of a decade's worth of population gain in a little over a year. From April 2020 to July 2021, the city lost nearly 7% of its population, going from 873,965 residents to 815,201 --- the lowest number since 2010. Among those age 25 to 29 who are female, white and non-Hispanic, the population plunged by 26%. White men of the same age group saw nearly the same drop.
+
+These population shifts make sense. People in their mid-to-late twenties in San Francisco are much less likely to own homes than older adults, making it more challenging to afford the city and easier to relocate to less expensive areas.
+
+While the decline was glaring, there is data that points to a modest population rebound in the city. The most recent estimate from the California Department of Finance, which uses different methods than the census, put the metro's population at 842,754 at the start of 2022 --- still less than early 2020, but not as big of a drop. If the younger population returns to or tops the pre-pandemic level, our forecast for the Bay Area economy's performance could be too conservative in the long-run.
+
+### [Bay Watch](http://www.bayareaeconomy.org/jobs-and-layoffs/) November 18th, 2022
+
+http://www.bayareaeconomy.org/jobs-and-layoffs/
+
+![](images/image-846917963.png)
+
+Despite continuing widespread fears an economic downturn is around the corner, the region's three major metros posted their strongest job growth since July while September's figures were revised upwards. The San Jose metropolitan region added 5,500 jobs, Oakland and the greater East Bay added 4,400, while the San Francisco metropolitan region led the pack with an additional 6,300 jobs.
+
+![](images/image-1591221091.png)
+
+## Real estate
+
+[**Housing Outlook**](https://www.bankofthewest.com/Wealth-Management/insights/articles/economic-report/california-economic-outlook-report-sept-2022) **Bank of the West** September 12, 2022\
+Bay Area existing home sales dropped from a year ago for the eleventh month in a row in July and the decline accelerated sharply to 37.2% -- the biggest drop since May 2020. The weakness can no longer be attributed to base effects, rather surging mortgage rates, low affordability and weaker demand are pushing home sales lower. Home sales fell year-on-year at double-digit rates in all nine Bay Area counties in July with the largest decreases in Santa Clara (-46.1%), Contra Costa (-36.0%) and Solano (-35.8%) Counties. Home sales fell the least in Napa (-32.7%), Marin (-31.6%) and San Francisco (-26.0%).
+
+From [this](https://www.ioenergyinc.com/san-francisco-commerical-real-estate-market/):
+
+-   There's been a 385% increase in available sublease space in San Francisco since Covid-19 swept in. **Translation:** Really nice spaces are available, and they're going for a song.
+
+-   In San Francisco, non-renewal of leases is up 65%, with 'negative net absorption' (renewals for smaller footprints) making up much of the active leasing activity.
+
+-   Article co-author, Kevin Brennan's crystal ball says that most companies will eventually return to in-office work, stating "employees are suffering from fatigue, depression and work/life imbalance, or do not have appropriate remote working infrastructure, and most employers want their teams back into the office where collaboration, teamwork and creativity can flourish."

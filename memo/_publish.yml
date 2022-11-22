@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 82b477aa-ccdf-4594-ae49-95eded0aca2b
+      url: 'https://vacancies-crankstart.netlify.app'

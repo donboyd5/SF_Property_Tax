@@ -17,20 +17,17 @@ editor_options:
   chunk_output_type: console  
 
 book:
-  title: "Potential impact of declines in San Francisco property values"
+  title: "Potential Impact of Declines in San Francisco Property Values"
   author: "Don Boyd"
   date: today
   date-format: long
   chapters:
     - index.qmd
-    - observations.qmd
     - highlights.qmd
     - office_vacancies.qmd
-    - risk.qmd
-    - market_values.qmd
-    - property_tax.qmd
+    - sanfran_hit_worse.qmd
+    - economy_notes.qmd
     - budget_finance_hearing.qmd
-    - summary.qmd
     - bibliography.qmd
 
 bibliography: _bibliography.bib
@@ -40,8 +37,18 @@ nocite: |
 format:
   html:
     theme: cosmo
+  docx:
+    toc: true
+    toc-depth: 2
+    number-sections: true
+    highlight-style: github
+    reference-doc: refdoc.docx
   # pdf:
   #   documentclass: scrreprt
 
 editor: source
+
+# web 
+#   site: https://vacancies-crankstart.netlify.app/
+#   password: mndjb
 

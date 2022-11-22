@@ -1,20 +1,85 @@
 # Highlights
 
--   Property tax:
-    -   On November 16, the San Francisco Controller's Chief Economist, Ted Egan, presented analysis to the SF Board of Supervisors Budget and Finance Committee of potential impact of office property vacancies on the San Francisco property tax (\@tedeganRemoteWorkSan2022). Egan's presentation begins shortly after 1:59:00 in this [video](https://sanfrancisco.granicus.com/player/clip/42495?view_id=7&redirect=true&h=741f7d80c405950380ccc6be4dd3d3e2){style="font-size: 13pt;"}.
+## Multiple taxes will be hit, and multiple elements of the property tax will be hit
 
-    -   A crash in **office** property values could reduce property tax revenue by \$80-150 million annually by 2026, widening to \$100-200 million annually by 2028 under scenarios examined by Egan. (For context, the general fund property tax is a bit over \$2 billion; all funds is about \$3 billion.)
+-   The decline in property values will affect not just the property tax, but also business taxes (such as the gross receipts tax), the property transfer tax, and the sales tax.
 
-    -   The property tax revenue scenarios are based on [San Francisco office vacancy scenarios developed by national real estate advisor JLL](https://www.us.jll.com/en/trends-and-insights/research/office-market-statistics-trends/san-francisco). The scenarios are highly uncertain so these numbers are just suggestive of the risk, and are not specific forecasts.
+-   The revenue hit will be largest for the property tax, but impacts may be felt *sooner* for other taxes.
 
-    -   The impact would not be immediate due to Proposition 13 limits on assessed-value increases and time lags related to long term leases (some market value reductions won't be reflected in assessed values until leases expires and income from property drops due to lower rents). The impact would grow over time.
+-   Much focus has properly been on office vacancies, which makes sense because commercial office buildings account for about 18% of the San Francisco property tax, but other elements of the property tax will be hit, too.
 
-    -   Office vacancies are likely to be abnormally high for a **long** time: Under JLL's best-case scenario office vacancies are likely to remain even higher than they were in the worst part of the early 2000s dot-com crash until 2026. Under the worst-case scenario [See Office Vacancies](office_vacancies.qmd)
+-   The San Francisco Controller's Chief Economist recently estimated that the decline in *office* property values could reduce property tax revenue by \$80-150 million annually by 2026, widening to \$100-200 million annually by 2028, based on commercial office scenarios developed by a real estate advisory firm. (For context, the general fund property tax is a bit over \$2 billion; property tax from all funds is about \$3.9 billion.)
 
-    -   All of the above pertains just to offices, but there are other property-tax risks. Other properties could be hit as well.
+## The property tax impact will be stretched out and muted by Proposition 13 rules and industry practices
 
-    -   In
--   Other taxes.
--   Other elements of the property tax would be affected, too.
--   It would also hit other large taxes, including businesses budget in several ways, not just through the property tax. Business taxes, sales tax, and property transfer taxes would be hit, too.
--   
+The rules for reassessing properties when market values decline are important because they control the timing and magnitude of changes in assessments and tax revenue:
+
+-   Most properties currently are assessed below market because Proposition 13's 2% annual growth limit means assessments have not kept up with market values.
+
+-   Assessments will only go down when market values fall so far that they are below assessed values. Thus, the city has a "cushion" of underassessment - only a part of the market value drop will lead to assessment drops.
+
+-   When market values drop below assessed value, assessed values of commercial properties generally are **not** automatically reduced. Assessment reductions are triggered by:
+
+    -   A sale of the property for a low price that suggests market value is below assessed value, or
+
+    -   A successful appeal of assessment by the property owner, alleging that market value is below the assessed value.
+
+-   It takes time for these things to occur, and the extent to which they will occur is uncertain.
+
+## Thus, the appeals process is critically important
+
+-   Commercial property assessments generally are based on capitalized income.
+
+-   Long-term leases mean that income will not fall right away for some properties; this adds another delay to the process.
+
+-   However, many are coming up soon and so appeals based on this will increase.
+
+-   (Also, higher interest rates mean higher capitalization rates, and lower assessed values.)
+
+-   The appeals process has seen significant increases in appeals and has a backlog (see the AAB presentation from the Budget and Finance Committee Nov 16 meeting).
+
+## The crisis is likely to be prolonged
+
+-   The Controller is relying on \[San Francisco office vacancy scenarios prepared by a respected national real estate advisor, JLL\] (https://www.us.jll.com/en/trends-and-insights/research/office-market-statistics-trends/san-francisco).
+
+-   These scenarios - which are highly uncertain - suggest that increases in vacancy rates have not run their course. Under JLL's best-case scenario office vacancies will take at least until the end of 2026 to come down to the *worst* they were during the dot-com crash of the early 2000s. Under JLL's pessimistic scenario vacancy rates will remain above 25% through the end of 2026, up from their early 2022 level of about 22%. [See Office Vacancies](office_vacancies.qmd)
+
+## San Francisco has been hit harder than most other cities and will recover more slowly
+
+-   All major cities are being hit by sharp rises in vacancy rates, but San Francisco is among the hardest hit, and vacancy rates are likely to fall more slowly. SF hit harder than South Bay.
+
+-   For a few relevant graphs, see [this](sanfran_hit_worse.qmd).
+
+## Policies matter
+
+-   An important question is whether, how, and when vacant property can be converted to residential property or other uses that might be more valuable than current use.
+
+-   The Controller's chief economist believes that wide-scale conversions are unlikely in the near term. Among other things, San Francisco's high construction costs may limit the interest in conversions.
+
+-   Supervisor Safai noted that the Proposition I property transfer tax and several other policies also may depress conversions. I believe the property transfer tax is extremely high relative to other places, but I haven't had time to investigate.
+
+## Some members of the Board of Supervisors are intensely focused on these issues
+
+-   Several Supervisors are paying close attention to these issues. For more, see a relevant [Budget and Finance Committee hearing](budget_finance_hearing.qmd).
+
+## Important questions to ask
+
+-   What are the mayor and the board of supervisors doing to monitor, prepare for, and inform the public about the challenges ahead?
+
+-   Are there special data gathering efforts underway to help them understand the depth and magnitude of the anticipated crisis?
+
+-   Are they reexamining policies affect the ability to convert properties to other uses?
+
+-   Do they need to the budget process to be more focused on reviewing spending from ground up to determine what can be done without?
+
+## Timetable
+
+-   The controller's chief economist has estimated the potential property tax impact of office vacancies, but the controller's office has not yet done a full re-estimate of revenue including the rest of the property tax and other revenue sources.
+
+-   The controller's office expects to prepare revised estimates for the full budget, mulitple taxes and multiple years, by December 10 or shortly thereafter.
+
+-   These will help the mayor decide what instructions to issue to city departments in December as they prepare their budget requests for 2023-24 and beyond. (For example, should they plan to cut spending by x?)
+
+-   This kicks off the budget process for 2023-24, which starts July 1, 2023. Key dates: (1) February 22, 2023 - requests from departments become public, (2) May 1: mayor's proposal to the board of supervisors for selected departments, (3) June 1: mayor's proposal for the full budget, and (4) July 29: final deadline for the Board of Supervisors to adopt the budget. (See this [schedule](https://sf.gov/step-by-step/budget-process-timeline).)
+
+-   Thus, the key policymaking period for the next budget starts publicly in about 2 weeks and runs through July.
