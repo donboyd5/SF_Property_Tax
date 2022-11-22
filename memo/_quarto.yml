@@ -17,17 +17,19 @@ editor_options:
   chunk_output_type: console  
 
 book:
-  title: "memo"
+  title: "Potential impact of declines in San Francisco property values"
   author: "Don Boyd"
   date: today
   date-format: long
   chapters:
     - index.qmd
+    - observations.qmd
     - highlights.qmd
     - office_vacancies.qmd
     - risk.qmd
     - market_values.qmd
     - property_tax.qmd
+    - budget_finance_hearing.qmd
     - summary.qmd
     - bibliography.qmd
 
