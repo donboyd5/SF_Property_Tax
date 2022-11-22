@@ -1,0 +1,45 @@
+project:
+  type: book
+  
+# the [incidence of payroll taxes](taxes/payroll_mobility_tax.qmd#incidence)  
+  
+# https://quarto.org/docs/computations/execution-options.html    
+# for cell options: https://quarto.org/docs/reference/cells/cells-knitr.html
+execute:
+  eval: true
+  echo: false
+  error: false
+  warning: false
+  message: false  # not sure if allowed
+  note: false  # not sure if allowed  
+  
+editor_options: 
+  chunk_output_type: console  
+
+book:
+  title: "memo"
+  author: "Don Boyd"
+  date: today
+  date-format: long
+  chapters:
+    - index.qmd
+    - highlights.qmd
+    - office_vacancies.qmd
+    - risk.qmd
+    - market_values.qmd
+    - property_tax.qmd
+    - summary.qmd
+    - bibliography.qmd
+
+bibliography: _bibliography.bib
+nocite: |
+  @*
+
+format:
+  html:
+    theme: cosmo
+  # pdf:
+  #   documentclass: scrreprt
+
+editor: source
+

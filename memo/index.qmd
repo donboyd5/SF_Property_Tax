@@ -1,0 +1,19 @@
+# Goals {.unnumbered}
+
+Per your note:
+
+> We are eager for a local newspaper to publish an authoritative piece on the coming cash crunch faced by san francisco as property prices are reassessed and tax revenues crumble.
+
+> Do you think you could fit in maybe 4-8 hours of research this week and make a list of the key factual points you think should be included in the article? This would be prioritized over the housing project because it's time-sensitive. We would want to know basic things for a writer to pick up and then turn into an article
+
+I assume you are interested in knowing:
+
+-   How big is the risk of falling property values, falling assessments and falling tax revenue?
+
+-   When might it occur?
+
+-   What should the city be doing to understand, monitor, and prepare for this risk?
+
+In the interest of speed and staying within 8 hours, I am relying as much as possible on work others have done, including inserting screenshots of their figures and tables (with attribution), although I have analyzed some data sets myself.
+
+The [highlights page](highlights.qmd) gives key points. Subsequent pages provide more details.

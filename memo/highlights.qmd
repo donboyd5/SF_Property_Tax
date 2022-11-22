@@ -1,0 +1,20 @@
+# Highlights
+
+-   Property tax:
+    -   On November 16, the San Francisco Controller's Chief Economist, Ted Egan, presented analysis to the SF Board of Supervisors Budget and Finance Committee of potential impact of office property vacancies on the San Francisco property tax (\@tedeganRemoteWorkSan2022). Egan's presentation begins shortly after 1:59:00 in this [video](https://sanfrancisco.granicus.com/player/clip/42495?view_id=7&redirect=true&h=741f7d80c405950380ccc6be4dd3d3e2){style="font-size: 13pt;"}.
+
+    -   A crash in **office** property values could reduce property tax revenue by \$80-150 million annually by 2026, widening to \$100-200 million annually by 2028 under scenarios examined by Egan. (For context, the general fund property tax is a bit over \$2 billion; all funds is about \$3 billion.)
+
+    -   The property tax revenue scenarios are based on [San Francisco office vacancy scenarios developed by national real estate advisor JLL](https://www.us.jll.com/en/trends-and-insights/research/office-market-statistics-trends/san-francisco). The scenarios are highly uncertain so these numbers are just suggestive of the risk, and are not specific forecasts.
+
+    -   The impact would not be immediate due to Proposition 13 limits on assessed-value increases and time lags related to long term leases (some market value reductions won't be reflected in assessed values until leases expires and income from property drops due to lower rents). The impact would grow over time.
+
+    -   Office vacancies are likely to be abnormally high for a **long** time: Under JLL's best-case scenario office vacancies are likely to remain even higher than they were in the worst part of the early 2000s dot-com crash until 2026. Under the worst-case scenario [See Office Vacancies](office_vacancies.qmd)
+
+    -   All of the above pertains just to offices, but there are other property-tax risks. Other properties could be hit as well.
+
+    -   In
+-   Other taxes.
+-   Other elements of the property tax would be affected, too.
+-   It would also hit other large taxes, including businesses budget in several ways, not just through the property tax. Business taxes, sales tax, and property transfer taxes would be hit, too.
+-   
